@@ -1,0 +1,3 @@
+[submodule "Sources/lzfse"]
+	path = Sources/LZFSE/lzfse
+	url = https://github.com/lzfse/lzfse
